@@ -1,17 +1,12 @@
 export const personalData = {
-  name: "ABU SAID",
+  name: "Vineela B",
   profile: '/profile.png',
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  description: "Hi, I'm Vineela — a passionate and results-driven Full Stack .NET Developer with experience building scalable and modern web applications using Angular, ASP.NET Core, and SQL Server. I enjoy working across both frontend and backend, turning complex business requirements into clean, efficient code. With a strong foundation in C#, .NET Core, and TypeScript, I thrive on crafting responsive UIs, secure APIs, and cloud-ready architectures. I'm a fast learner with a strong problem-solving mindset and love staying up to date with the latest in Microsoft technologies, web standards, and cloud platforms like Azure. I take pride in writing clean, maintainable code and collaborating with cross-functional teams to deliver high-quality software. I'm open to exciting opportunities that allow me to grow, contribute, and make a meaningful impact.",
+  email: 'vineelamary01@gmail.com',
+  phone: '+1-203-572-5081',
+  address: 'Connecticut, USA',
+  github: 'https://github.com/',
+  linkedIn: 'https://www.linkedin.com/',
+  resume: "https://drive.google.com/"
 }

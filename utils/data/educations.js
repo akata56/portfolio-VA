@@ -1,20 +1,14 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master’s in Computer Science",
+    duration: "Aug 2022 – Dec 2023",
+    institution: "Sacred Heart University",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
-  },
-  {
-    id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Bachelor’s in Computer Science",
+    duration: "Jul 2017 – Apr 2021",
+    institution: "Kallam Haranadha Reddy Institute of Technology",
   }
-]
+];
